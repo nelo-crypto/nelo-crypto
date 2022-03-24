@@ -17,3 +17,9 @@ Also, I have been playing wih software since I was around 13 so I welcome roles 
 [Telegram Scrapper](https://github.com/nelo-crypto/telegram-scrapper) - A simple working example of a possible Telegram Scrapper using Axios and the Cheerio packages
 
 I have other repositories and ideas I'm working on but the first presentable version is still not ready.
+
+## Donations
+
+If you found any of my stuff useful and want me to keep it alive, this is my EVM address.
+
+EVM Address: 0x26b9fD8EF7a6d2f0612D4953CE7A06Fe8d90dd66
