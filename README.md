@@ -12,7 +12,7 @@ Also, I have been playing wih software since I was around 13 so I welcome roles 
 
 ## Apps and repositories
 
-[DeBank Overview](https://github.com/nelo-crypto/debank-overview) - Check all your DeBank information in a single page
+[DeBank Overview](https://nelo-crypto.github.io/debank-overview/) - Check all your DeBank information in a single page
 
 [Telegram Scrapper](https://github.com/nelo-crypto/telegram-scrapper) - A simple working example of a possible Telegram Scrapper using Axios and the Cheerio packages
 
