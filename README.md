@@ -10,7 +10,7 @@ Because I would like to remain anon I'm only listing crypto related work.
 
 Also, I have been playing wih software since I was around 13 so I welcome roles and work which are not development 100% of the time.
 
-## Presentable work and repositories
+## Apps and repositories
 
 [DeBank Overview](https://github.com/nelo-crypto/debank-overview) - Check all your DeBank information in a single page
 
