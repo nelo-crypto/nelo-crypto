@@ -23,6 +23,7 @@ I have other repositories and ideas I'm working on but the first presentable ver
 ## Socials
 
 * Twitter: [https://twitter.com/NeloCrypto](https://twitter.com/NeloCrypto)
+* Telegram: [https://t.me/NeloCrypto](https://t.me/NeloCrypto)
 
 ## Donations
 
