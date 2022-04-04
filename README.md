@@ -10,6 +10,20 @@ Because I would like to remain anon I'm only listing crypto related work.
 
 Also, I have been playing wih software since I was around 13 so I welcome roles and work which are not development 100% of the time.
 
+## Statistics
+
+<p>
+  <a href="https://github.com/dansofter/dansofter" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=nelo-crypto&hide=java,html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+  </a>
+  <a href="https://github.com/dansofter/dansofter" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nelo-crypto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Top Dev's GitHub Stats" height="180px"/>
+  </a>
+ </p>
+ <p>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=nelo-crypto&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+ </p>
+
 ## Apps and repositories
 
 [DeBank Overview](https://nelo-crypto.github.io/debank-overview/) - Check all your DeBank information in a single page.
