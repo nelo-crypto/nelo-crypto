@@ -21,7 +21,9 @@ Also, I have been playing wih software since I was around 13 so I welcome roles 
   </a>
  </p>
  <p>
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=nelo-crypto&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
  </p>
 
 ## Apps and repositories
