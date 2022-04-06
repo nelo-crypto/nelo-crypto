@@ -46,6 +46,7 @@ I have other repositories and ideas I'm working on but the first presentable ver
 
 ## Donations
 
+
 If you found any of my stuff useful and want me to keep it alive and flourishing, this is my EVM address.
 
 EVM Address: 0x26b9fD8EF7a6d2f0612D4953CE7A06Fe8d90dd66
