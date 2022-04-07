@@ -6,10 +6,6 @@ Been in the space looking it mature since 2017, where I did my first ETH transac
 
 Background in Computer Science and a formal +10 years career working with all types of company structures, Big 4s, small startups, freelance work and some side projects. Looking to contribute to the crypto space in a positive way, by publishing some of my software, tools, and doing contributions to opensource crypto projects.
 
-Because I would like to remain anon I'm only listing crypto related work.
-
-Also, I have been playing wih software since I was around 13 so I welcome roles and work which are not development 100% of the time.
-
 ## Statistics
 
 <p>
@@ -26,18 +22,19 @@ Also, I have been playing wih software since I was around 13 so I welcome roles 
   
  </p>
 
-## Apps and repositories
+## Apps (for the Universal Premium Account)
 
-[DeBank Overview](https://nelo-crypto.github.io/debank-overview/) - Check all your DeBank information in a single page.
-
-[Telegram Scrapper](https://github.com/nelo-crypto/telegram-scrapper) - A simple working example of a possible Telegram Scrapper using Axios and the Cheerio packages.
+[DeBank Overview](https://nelo-crypto.github.io/debank-overview/) - Check all your DeBank information and calculate your entire networth in a single page.
 
 [Nelo Links](https://nelo-crypto.github.io/nelo-links/) - An encrypted web link manager running over the local network, allowing all your connected devices immediate access to your most used webpages and web links.
 
-[Example PR](https://github.com/nelo-crypto/nelo-links/pull/10) - I have extensive practical GitHub experience under various branch strategies and workflows.
+*Nelo Vaults (in development)* - A single place to manage your vaults and periodic contract calls.
 
-I have other repositories and ideas I'm working on but the first presentable version is still not ready.
+*Nelo Addresses (in development)* - An address manager to keep tabs on your wallets, along with contextual information.
 
+## Other repositories
+
+[Telegram Scrapper](https://github.com/nelo-crypto/telegram-scrapper) - A simple working example of a possible Telegram Scrapper using Axios and the Cheerio packages.
 
 ## Socials
 
