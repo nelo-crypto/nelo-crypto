@@ -44,6 +44,6 @@ Background in Computer Science and a formal +10 years career working with all ty
 ## Donations
 
 
-If you found any of my stuff useful and want me to keep it alive and flourishing, this is my EVM address.
+If you found any of my stuff useful and want me to keep it alive and flourishing, this is my EVM address. Donations in USDC will count for the Universal Premium Account.
 
 EVM Address: 0x26b9fD8EF7a6d2f0612D4953CE7A06Fe8d90dd66
