@@ -32,6 +32,8 @@ Background in Computer Science and a formal +10 years career working with all ty
 
 *Nelo Addresses (in development)* - An address manager to keep tabs on your wallets, along with contextual information.
 
+To read more about this Universal Premium Account visit the [official repo](https://github.com/nelo-crypto/nelo-universal-premium-account) with all the details.
+
 ## Other repositories
 
 [Telegram Scrapper](https://github.com/nelo-crypto/telegram-scrapper) - A simple working example of a possible Telegram Scrapper using Axios and the Cheerio packages.
