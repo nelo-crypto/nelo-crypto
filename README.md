@@ -34,7 +34,7 @@ Background in Computer Science and a formal +10 years career working with all ty
 
 *Nelo Addresses (in development)* - An address manager to keep tabs on your wallets, along with contextual information.
 
-To read more about the _Universal Premium Account_ visit the [official repository](https://github.com/nelo-crypto/nelo-universal-premium-account) with all the details.
+To read more about the _Universal Premium Account_ visit the [official repository](https://github.com/nelo-crypto/nelo-universal-premium-account) with all the details in the [README](https://github.com/nelo-crypto/nelo-universal-premium-account/blob/main/README.md), [ROADMAP](https://github.com/nelo-crypto/nelo-universal-premium-account/blob/main/ROADMAP.md) and [ROADLOG](https://github.com/nelo-crypto/nelo-universal-premium-account/blob/main/ROADLOG.md) files.
 
 ## Other repositories
 
