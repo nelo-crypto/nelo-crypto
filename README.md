@@ -28,7 +28,7 @@ Background in Computer Science and a formal +10 years career working with all ty
 
 [NeloMaths](https://nelo-crypto.github.io/nelo-maths/) - NeloMaths is a collection of crypto related calculators to help you keep on top of things.
 
-*Nelo Vaults (in development)* - A single place to manage your vaults and periodic contract calls.
+*NeloVaults (in development)* - A single place to manage your vaults and periodic contract calls.
 
 *Nelo Addresses (in development)* - An address manager to keep tabs on your wallets, along with contextual information.
 
