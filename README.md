@@ -22,7 +22,7 @@ Background in Computer Science and a formal +10 years career working with all ty
 
 ## Apps (for the Universal Premium Account)
 
-[DeBank Overview](https://nelo-crypto.github.io/debank-overview/) - Check all your DeBank information and calculate your entire networth in a single page.
+[NeloOverview](https://nelo-crypto.github.io/nelo-overview/) - Calculate your entire networth in a single page.
 
 [NeloLinks](https://nelo-crypto.github.io/nelo-links/) - An encrypted web link manager running over the local network, allowing all your connected devices immediate access to your most used webpages and web links.
 
