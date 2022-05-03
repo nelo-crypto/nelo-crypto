@@ -1,8 +1,8 @@
-# NeloCrypto's BIO
+## Socials / Contacts
 
-Been in the space looking it mature since 2017, where I did my first ETH transactions. I'm a daily crypto user.
-
-Background in Computer Science and a formal +10 years career working with all types of company structures, Big 4s, small startups, freelance work and some side projects. Looking to contribute to the crypto space in a positive way, by publishing some of my software, tools, and doing contributions to opensource crypto projects.
+* Twitter: [https://twitter.com/NeloCrypto](https://twitter.com/NeloCrypto)
+* Telegram: [https://t.me/NeloCrypto](https://t.me/NeloCrypto)
+* Email: nelo.crypto@protonmail.com
 
 ## Statistics
 
@@ -37,11 +37,6 @@ To read more about the _Universal Premium Account_ visit the [official repositor
 ## Other repositories
 
 [Telegram Scrapper](https://github.com/nelo-crypto/telegram-scrapper) - A simple working example of a possible Telegram Scrapper using Axios and the Cheerio packages.
-
-## Socials
-
-* Twitter: [https://twitter.com/NeloCrypto](https://twitter.com/NeloCrypto)
-* Telegram: [https://t.me/NeloCrypto](https://t.me/NeloCrypto)
 
 ## Donations
 
