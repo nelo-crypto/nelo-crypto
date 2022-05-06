@@ -28,7 +28,7 @@
 
 [NeloMaths](https://nelo-crypto.github.io/nelo-maths/) - NeloMaths is a collection of crypto related calculators to help you keep on top of things.
 
-*NeloVaults (in development)* - A single place to manage your vaults and periodic contract calls.
+[NeloVaults](https://nelo-crypto.github.io/nelo-vaults/) - A single place to manage your vaults and periodic contract calls.
 
 *NeloAddresses (in development)* - An address manager to keep tabs on your wallets, along with contextual information.
 
