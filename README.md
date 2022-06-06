@@ -3,6 +3,7 @@
 * Twitter: [https://twitter.com/NeloCrypto](https://twitter.com/NeloCrypto)
 * Telegram: [https://t.me/NeloCrypto](https://t.me/NeloCrypto)
 * Email: nelo.crypto /at/ protonmail.com
+* Discord: NeloCrypto#0357
 
 ## Statistics
 
