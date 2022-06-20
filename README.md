@@ -43,6 +43,8 @@ To read more about the _Universal Premium Account_ visit the [official repositor
 
 [Telegram Scrapper](https://github.com/nelo-crypto/telegram-scrapper) - A simple working example of a possible Telegram Scrapper using Axios and the Cheerio packages.
 
+[Vaults](https://github.com/nelo-crypto/vaults) - A simple vault implementation to farm yield on SushiSwap.
+
 ## Donations / Sponsor
 
 If you found any of my stuff useful and want me to keep it alive and flourishing, this is my EVM address. Donations in USDC will count for the Universal Premium Account.
