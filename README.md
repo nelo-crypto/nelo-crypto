@@ -29,7 +29,7 @@
 
 [NeloOverview](https://overview.nelocrypto.com) - Calculate your entire networth in a single page.
 
-[NeloLinks](https://links..nelocrypto.com) - An encrypted web link manager running over the local network, allowing all your connected devices immediate access to your most used webpages and web links.
+[NeloLinks](https://links.nelocrypto.com) - An encrypted web link manager running over the local network, allowing all your connected devices immediate access to your most used webpages and web links.
 
 [NeloMaths](https://maths.nelocrypto.com) - NeloMaths is a collection of crypto related calculators to help you keep on top of things.
 
