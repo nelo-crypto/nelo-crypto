@@ -37,7 +37,7 @@
 
 *NeloAddresses (in development/planning)* - An address manager to keep tabs on your wallets, along with contextual information.
 
-To read more about the _Universal Premium Account_ visit the [official repository](https://github.com/nelo-crypto/nelo-universal-premium-account) with all the details in The 3 Rs: [README](https://github.com/nelo-crypto/nelo-universal-premium-account/blob/main/README.md), [ROADMAP](https://github.com/nelo-crypto/nelo-universal-premium-account/blob/main/ROADMAP.md) and [ROADLOG](https://github.com/nelo-crypto/nelo-universal-premium-account/blob/main/ROADLOG.md) files.
+To read more about the _Universal Premium Account_ visit the [official website](https://nelocrypto.com) with all the details in The 3 Rs: [README](https://nelocrypto.com/#/readme), [ROADMAP](https://nelocrypto.com/#/roadmap) and [ROADLOG](https://nelocrypto.com/#/roadlog) files.
 
 ## Other repositories
 
