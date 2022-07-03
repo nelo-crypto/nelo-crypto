@@ -22,7 +22,7 @@
  </p>
 
 <p align="center">
-<img src="https://gpvc.arturio.dev/nelo-crypto" alt="Profile views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nelo-crypto.nelo-crypto" alt="visitors"/> / <img src="https://gpvc.arturio.dev/nelo-crypto" alt="views"/>
 </p>
 
 ## Website
