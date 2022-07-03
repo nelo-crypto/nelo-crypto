@@ -21,6 +21,10 @@
   
  </p>
 
+<p align="center">
+<img src="https://gpvc.arturio.dev/nelo-crypto" alt="Profile views"/>
+</p>
+
 ## Website
 
 [NeloCrypto](https://nelocrypto.com) - NeloCrypto offers crypto enthusiasts a set of tools and helper apps to make daily life in crypto easier and faster.
