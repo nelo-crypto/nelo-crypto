@@ -49,7 +49,9 @@ To read more about the _Universal Premium Account_ visit the [official website](
 
 [Vaults](https://github.com/nelo-crypto/vaults) - A simple vault implementation to farm yield on SushiSwap.
 
-[Nelo token](https://github.com/nelo-crypto/nelo-token) - Nelo token contract and deployment files.
+[NELO Token](https://github.com/nelo-crypto/nelo-token) - NELO token contract and deployment files.
+
+[NELO Contribution contract](https://github.com/nelo-crypto/nelo-contribution-contract) - NELO contribution contract and deployment files.
 
 ## Donations / Sponsor
 
